@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+nifi:
+  base-url: https://localhost:8443/nifi-api
+  username: f9a80316-5103-4618-b90e-a37c886cb5d9
+  password: Hh3G6vrgePoxLM+maTdMnKmobHB2AU30
+  root-group-id: 971161e6-019d-1000-a3cf-b33595a62fdd
+
